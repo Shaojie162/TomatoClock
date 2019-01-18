@@ -11,8 +11,10 @@ A simple Timer which follows Tomato time.
 3.提供邮件反馈开发者功能</br>
 4.自主可控的背景音乐</br>
 
-效果展示：
-
+效果展示：</br>
+![Image text](https://github.com/Shaojie162/TomatoClock/blob/picture/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-01-09%20at%2002.33.35.png?raw=true)</br>
+![Image text](https://github.com/Shaojie162/TomatoClock/blob/picture/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-01-09%20at%2002.33.16.png)</br>
+![Image text](https://github.com/Shaojie162/TomatoClock/blob/picture/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-01-09%20at%2002.34.32.png?raw=true)
 
 
 
